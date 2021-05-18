@@ -48,36 +48,35 @@ namespace TP5
             Console.WriteLine("1 - SUMA, 2- RESTA, 3- DIVISION, 4 - MULTIPLICACION");
             operacion = int.Parse(Console.ReadLine());
 
-      
+
 
             Console.WriteLine("Desea realizar otra operacion? 1- SI 2-NO");
+
             opc = int.Parse(Console.ReadLine());
 
-            do
+            if (operacion == 1)
             {
-                if (operacion == 1)
-                {
-                    resultado = a + b;
-                    Console.WriteLine("El resultado de la suma es: " + resultado);
+                resultado = a + b;
+                Console.WriteLine("El resultado de la suma es: " + resultado);
 
-                }
-                else if (operacion == 2)
-                {
-                    resultado = a - b;
-                    Console.WriteLine("El resultado de la resta es : " + resultado);
-                }
-                else if (operacion == 3)
-                {
-                    resultado = a / b;
-                    Console.WriteLine("El resultado de la division es : " + resultado);
-                }
-                else if (operacion == 4)
-                {
-                    resultado = a * b;
-                    Console.WriteLine("El resultado de la multiplicacion es : " + resultado);
-                }
+            }
+            else if (operacion == 2)
+            {
+                resultado = a - b;
+                Console.WriteLine("El resultado de la resta es : " + resultado);
+            }
+            else if (operacion == 3)
+            {
+                resultado = a / b;
+                Console.WriteLine("El resultado de la division es : " + resultado);
+            }
+            else if (operacion == 4)
+            {
+                resultado = a * b;
+                Console.WriteLine("El resultado de la multiplicacion es : " + resultado);
+            }
 
-            } while (opc == 1);
+
 
 
         }

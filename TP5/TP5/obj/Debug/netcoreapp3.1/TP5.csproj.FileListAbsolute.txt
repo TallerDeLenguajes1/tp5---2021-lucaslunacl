@@ -1,0 +1,13 @@
+C:\Users\Lucas\Desktop\PRACTICOS FACULTAD\segundo\Taller de Lenguajes 1\tp5---2021-lucaslunacl\TP5\TP5\bin\Debug\netcoreapp3.1\TP5.exe
+C:\Users\Lucas\Desktop\PRACTICOS FACULTAD\segundo\Taller de Lenguajes 1\tp5---2021-lucaslunacl\TP5\TP5\bin\Debug\netcoreapp3.1\TP5.deps.json
+C:\Users\Lucas\Desktop\PRACTICOS FACULTAD\segundo\Taller de Lenguajes 1\tp5---2021-lucaslunacl\TP5\TP5\bin\Debug\netcoreapp3.1\TP5.runtimeconfig.json
+C:\Users\Lucas\Desktop\PRACTICOS FACULTAD\segundo\Taller de Lenguajes 1\tp5---2021-lucaslunacl\TP5\TP5\bin\Debug\netcoreapp3.1\TP5.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\PRACTICOS FACULTAD\segundo\Taller de Lenguajes 1\tp5---2021-lucaslunacl\TP5\TP5\bin\Debug\netcoreapp3.1\TP5.dll
+C:\Users\Lucas\Desktop\PRACTICOS FACULTAD\segundo\Taller de Lenguajes 1\tp5---2021-lucaslunacl\TP5\TP5\bin\Debug\netcoreapp3.1\TP5.pdb
+C:\Users\Lucas\Desktop\PRACTICOS FACULTAD\segundo\Taller de Lenguajes 1\tp5---2021-lucaslunacl\TP5\TP5\obj\Debug\netcoreapp3.1\TP5.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\PRACTICOS FACULTAD\segundo\Taller de Lenguajes 1\tp5---2021-lucaslunacl\TP5\TP5\obj\Debug\netcoreapp3.1\TP5.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\PRACTICOS FACULTAD\segundo\Taller de Lenguajes 1\tp5---2021-lucaslunacl\TP5\TP5\obj\Debug\netcoreapp3.1\TP5.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\PRACTICOS FACULTAD\segundo\Taller de Lenguajes 1\tp5---2021-lucaslunacl\TP5\TP5\obj\Debug\netcoreapp3.1\TP5.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\PRACTICOS FACULTAD\segundo\Taller de Lenguajes 1\tp5---2021-lucaslunacl\TP5\TP5\obj\Debug\netcoreapp3.1\TP5.dll
+C:\Users\Lucas\Desktop\PRACTICOS FACULTAD\segundo\Taller de Lenguajes 1\tp5---2021-lucaslunacl\TP5\TP5\obj\Debug\netcoreapp3.1\TP5.pdb
+C:\Users\Lucas\Desktop\PRACTICOS FACULTAD\segundo\Taller de Lenguajes 1\tp5---2021-lucaslunacl\TP5\TP5\obj\Debug\netcoreapp3.1\TP5.genruntimeconfig.cache
